@@ -1,5 +1,10 @@
 lockfileVersion: '6.0'
 
+dependencies:
+  sunrise-sunset-js:
+    specifier: ^2.2.1
+    version: 2.2.1
+
 devDependencies:
   '@sveltejs/adapter-auto':
     specifier: ^2.1.0
@@ -1957,6 +1962,10 @@ packages:
       pirates: 4.0.6
       ts-interface-checker: 0.1.13
     dev: true
+
+  /sunrise-sunset-js@2.2.1:
+    resolution: {integrity: sha512-ErsvmxoTCZRacVPtlchkrTAR8qxypBy0BDrrv9LMugLuF0AykcS5pQsP1EhQJHgumxrTTSI8N8KJkQMVJ6dEPw==}
+    dev: false
 
   /supports-color@7.2.0:
     resolution: {integrity: sha512-qpCAvRl9stuOHveKsn7HncJRvv501qIacKzQlO/+Lwxc9+0q2wLyv4Dfvt80/DPn2pqOBsJdDiogXGR9+OvwRw==}
